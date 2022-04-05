@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Delegete\\DeleGete\\DeleGete\\DeleGete.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Delegatekdsyfodfkf\\DeleGete\\DeleGete\\DeleGete.csproj",
       "projectName": "DeleGete",
-      "projectPath": "C:\\Users\\User\\Desktop\\Delegete\\DeleGete\\DeleGete\\DeleGete.csproj",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\Delegatekdsyfodfkf\\DeleGete\\DeleGete\\DeleGete.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Delegete\\DeleGete\\DeleGete\\obj\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\Delegatekdsyfodfkf\\DeleGete\\DeleGete\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

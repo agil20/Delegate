@@ -1,0 +1,16 @@
+C:\Users\User\Source\Repos\Delegatekdsyfodfkf\DeleGete\DeleGete\bin\Debug\net5.0\DeleGete.exe
+C:\Users\User\Source\Repos\Delegatekdsyfodfkf\DeleGete\DeleGete\bin\Debug\net5.0\DeleGete.deps.json
+C:\Users\User\Source\Repos\Delegatekdsyfodfkf\DeleGete\DeleGete\bin\Debug\net5.0\DeleGete.runtimeconfig.json
+C:\Users\User\Source\Repos\Delegatekdsyfodfkf\DeleGete\DeleGete\bin\Debug\net5.0\DeleGete.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Delegatekdsyfodfkf\DeleGete\DeleGete\bin\Debug\net5.0\DeleGete.dll
+C:\Users\User\Source\Repos\Delegatekdsyfodfkf\DeleGete\DeleGete\bin\Debug\net5.0\DeleGete.pdb
+C:\Users\User\Source\Repos\Delegatekdsyfodfkf\DeleGete\DeleGete\obj\Debug\net5.0\DeleGete.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Delegatekdsyfodfkf\DeleGete\DeleGete\obj\Debug\net5.0\DeleGete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\Delegatekdsyfodfkf\DeleGete\DeleGete\obj\Debug\net5.0\DeleGete.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Delegatekdsyfodfkf\DeleGete\DeleGete\obj\Debug\net5.0\DeleGete.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Delegatekdsyfodfkf\DeleGete\DeleGete\obj\Debug\net5.0\DeleGete.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Delegatekdsyfodfkf\DeleGete\DeleGete\obj\Debug\net5.0\DeleGete.dll
+C:\Users\User\Source\Repos\Delegatekdsyfodfkf\DeleGete\DeleGete\obj\Debug\net5.0\refint\DeleGete.dll
+C:\Users\User\Source\Repos\Delegatekdsyfodfkf\DeleGete\DeleGete\obj\Debug\net5.0\DeleGete.pdb
+C:\Users\User\Source\Repos\Delegatekdsyfodfkf\DeleGete\DeleGete\obj\Debug\net5.0\DeleGete.genruntimeconfig.cache
+C:\Users\User\Source\Repos\Delegatekdsyfodfkf\DeleGete\DeleGete\obj\Debug\net5.0\ref\DeleGete.dll

@@ -10,11 +10,22 @@ namespace DeleGete
 
         static void Main(string[] args)
         {
+            //Topla topla = new Topla(Top);
+            //topla += Vur;
+            //Console.WriteLine(topla(5,6));
             Topla topla = delegate (int n, int m)
-            {
-                return n + m;
-            };
-            topla+=nu
+             {
+                 return n + n;
+             };
+            topla += (n, m) => n - m;
+           
+        } public static int Top(int a,int b)
+        {
+            return a + b;   
+        }
+        public static int Vur(int a,int b)
+        {
+            return a * b;
         }
     }
 }
